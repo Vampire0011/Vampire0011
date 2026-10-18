@@ -33,7 +33,7 @@ jobs:
             assets/snake-light.svg
             assets/snake-dark.svg?palette=github-dark
 
-      # Stats card (commits, PRs, issues, stars, languages, etc.)
+      # Stats card (commits, PRs, issues, stars, languages)
       - name: Generate stats card
         uses: lowlighter/metrics@latest
         with:
@@ -46,9 +46,15 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          filename: assets/stats.svg
+          filename: stats.svg
           output_action: none
-          commit_message: "chore: update stats [skip ci]"
+
+      # metrics writes its render to /metrics_renders, so copy it into the repo
+      - name: Copy stats card into assets
+        run: |
+          ls -la /metrics_renders
+          sudo cp /metrics_renders/stats.svg assets/stats.svg
+          sudo chown "$USER":"$USER" assets/stats.svg
 
       - name: Commit changes
         run: |
