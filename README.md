@@ -3,7 +3,7 @@
 </p>
 
 # About Me:
-<img align="right" src="assets/goka.gif" width="200" alt="Gif">
+<img align="right" src="assets/owo.gif" width="200" alt="Gif">
 
 I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day 😄)<br><br>
 🔬 Completed an **IEEE project**, and I love reading **IEEE research papers** & **Quantum magazines**<br>
@@ -35,7 +35,7 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
       <img src="assets/luffy.gif" width="100%" alt="Gif left">
     </td>
     <td width="50%" align="center">
-      <img src="assets/olga.gif" width="100%" alt="Gif right">
+      <img src="assets/ghost.gif" width="100%" alt="Gif right">
     </td>
   </tr>
 </table>
