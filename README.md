@@ -40,3 +40,8 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote">
 </p>
+
+<p align="center">
+  <img src="assets/piece.jpg" width="100%" height="250" alt="Banner">
+</p>
+
