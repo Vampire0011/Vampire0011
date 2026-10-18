@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" height="250" alt="Banner">
+  <img src="assets/vam.gif" width="100%" height="250" alt="Banner">
 </p>
 
 # About Me:
-<img align="right" src="assets/about.gif" width="200" alt="Gif">
+<img align="right" src="assets/goka.gif" width="200" alt="Gif">
 
 I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day 😄)<br><br>
 🔬 Completed an **IEEE project**, and I love reading **IEEE research papers** & **Quantum magazines**<br>
@@ -32,10 +32,10 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/gif-left.gif" width="100%" alt="Gif left">
+      <img src="assets/zoro.mp4" width="100%" alt="Gif left">
     </td>
     <td width="50%" align="center">
-      <img src="assets/gif-right.gif" width="100%" alt="Gif right">
+      <img src="assets/olga.gif" width="100%" alt="Gif right">
     </td>
   </tr>
 </table>
