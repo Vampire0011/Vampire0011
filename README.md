@@ -20,13 +20,9 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 # GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-  <img alt="Contribution snake" src="assets/snake-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub stats" src="assets/stats-light.svg" width="100%">
 </picture>
-
-<br>
-
-<img alt="GitHub stats" src="assets/stats.svg" width="100%">
 
 <br>
 <table width="100%">
