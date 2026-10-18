@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="826" height="145" viewBox="0 0 826 145" role="img" aria-label="Vampire GitHub stats">
+<rect x="0.5" y="0.5" width="825" height="144" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="15" y="33" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="600" fill="#1f2328">Vampire's GitHub Stats</text>
+<text x="81.3" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0969da">91</text>
+<text x="81.3" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Contributions (1y)</text>
+<text x="214.0" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0969da">1d</text>
+<text x="214.0" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Current streak</text>
+<text x="346.7" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0969da">7d</text>
+<text x="346.7" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Longest streak</text>
+<text x="479.3" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0969da">18</text>
+<text x="479.3" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Stars earned</text>
+<text x="612.0" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0969da">15</text>
+<text x="612.0" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Repositories</text>
+<text x="744.7" y="86" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#0969da">4</text>
+<text x="744.7" y="110" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#59636e">Pull requests</text>
+</svg>
