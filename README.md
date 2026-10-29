@@ -28,10 +28,10 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/luffy.gif" width="100%" alt="Gif left">
+      <img src="assets/castle.gif" width="100%" alt="Gif left">
     </td>
     <td width="50%" align="center">
-      <img src="assets/ghost.gif" width="100%" alt="Gif right">
+      <img src="assets/tower.gif" width="100%" alt="Gif right">
     </td>
   </tr>
 </table>
@@ -42,6 +42,6 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 </p>
 
 <p align="center">
-  <img src="assets/piece.jpg" width="100%" height="250" alt="Banner">
+  <img src="assets/grave.gif" width="100%" height="250" alt="Banner">
 </p>
 
