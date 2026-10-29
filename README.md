@@ -31,8 +31,9 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
       <img src="assets/castle.gif" width="100%" alt="Gif left">
     </td>
     <td width="50%" align="center">
-      <img src="assets/tower.gif" width="100%" alt="Gif right">
+      <img src="assets/castle.gif" width="100%" alt="Gif left">
     </td>
+
   </tr>
 </table>
 
