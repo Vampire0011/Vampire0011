@@ -28,7 +28,7 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/castle.gif" width="100%" alt="Gif left">
+      <img src="assets/tower.gif" width="100%" alt="Gif left">
     </td>
     <td width="50%" align="center">
       <img src="assets/castle.gif" width="100%" alt="Gif left">
