@@ -3,7 +3,7 @@
 </p>
 
 # About Me:
-<img align="right" src="assets/owo.gif" width="200" alt="Gif">
+<img align="right" src="assets/owo.gif" width="300" alt="Gif">
 
 I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day 😄)<br><br>
 🔬 Completed an **IEEE project**, and I love reading **IEEE research papers** & **Quantum magazines**<br>
