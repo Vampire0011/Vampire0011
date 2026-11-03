@@ -9,7 +9,8 @@ I'm **Vampire** 🧛‍♂️, a tech enthusiast who codes by night (and day �
 🔬 Completed an **IEEE project**, and I love reading **IEEE research papers** & **Quantum magazines**<br>
 📊 Currently sharpening my skills in **DSA with C++**<br>
 💻 Comfortable with a few **programming languages**<br>
-✨ Proud **vibe coder**, building things that just *feel* right<br>
+✨ Building a Acadamic Dashboard and Event Hnadler (Morthis ---> { COming SOon})
+    Creating a #1 website based on Donation { Coming Soon }
 <br clear="right">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vamp_z4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rishu.z) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-gupta) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Vampirem4x) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/VAMPIRE_M4X) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishugupta1200@gmail.com)
